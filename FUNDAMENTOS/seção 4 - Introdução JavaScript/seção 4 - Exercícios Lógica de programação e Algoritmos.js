@@ -24,7 +24,7 @@ function retornarMaiorPalavra(palavra1, palavra2) {
     }
 }
 
-// console.log(compararPalavras('pinto', 'caralho'))
+// console.log(compararPalavras('doce', 'salgado'))
 
 function retornarMenorPalavra(palavra1, palavra2) {
     let carcteresPalavra1 = contarCaracteres(palavra1)
